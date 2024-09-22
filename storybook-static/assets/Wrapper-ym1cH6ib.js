@@ -1,0 +1,1 @@
+import{j as t}from"./jsx-runtime-CkxqCPlQ.js";const r=({children:e})=>t.jsx("div",{style:{display:"flex",justifyContent:"center",width:"100%"},children:e});r.__docgenInfo={description:"",methods:[],displayName:"Wrapper"};export{r as W};
